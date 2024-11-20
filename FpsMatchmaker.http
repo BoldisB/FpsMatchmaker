@@ -1,0 +1,6 @@
+@FpsMatchmaker_HostAddress = http://localhost:5019
+
+GET {{FpsMatchmaker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
