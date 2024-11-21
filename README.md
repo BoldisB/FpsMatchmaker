@@ -29,7 +29,7 @@ dotnet build FpsMatchmakerAPI.csproj
 ## Kako se aplikacija pokreće
 ### Visual Studio
 1.Kliknite na *Start Debugging (F5)* ili *Start Without Debugging (Ctrl+F5)*.
-2.API će se pokrenuti na zadatoj adresi (npr. *https://localhost:5001*).
+2.API će se pokrenuti na zadatoj adresi (npr. *https://localhost:8080*).
 ### Komandna linija
 1.Navigirajte do direktorijuma gde se nalazi *.csproj* fajl.
 2.Pokrenite aplikaciju komandom:
