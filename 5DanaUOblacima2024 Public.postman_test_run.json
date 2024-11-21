@@ -1,0 +1,902 @@
+{
+	"id": "6d90e0ec-7011-4970-9a91-72ba3bbfb9b2",
+	"name": "5DanaUOblacima2024 Public",
+	"timestamp": "2024-11-21T00:33:46.075Z",
+	"collection_id": "39857242-a37de741-b772-4087-9ea1-607caeff90ca",
+	"folder_id": 0,
+	"environment_id": "39857242-2938bc7d-db54-448d-8eb3-bd40a71e7e17",
+	"totalPass": 29,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-11-21T00:33:32.099Z",
+	"totalFail": 1,
+	"results": [
+		{
+			"id": "b1a15f69-2c93-4a15-a135-ceff7db35556",
+			"name": "Create player 1",
+			"url": "localhost:8080/players/create",
+			"time": 5524,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				5524
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "cbbf4e63-6d04-4ecb-ad55-61aaca88cd14",
+			"name": "Get player 1",
+			"url": "localhost:8080/players/35507fee-d239-4043-8b38-28018b2a0b21",
+			"time": 349,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				349
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "d4e85750-15d8-4377-82fe-a566d85cc646",
+			"name": "Create player 2",
+			"url": "localhost:8080/players/create",
+			"time": 169,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				169
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "4e35fb56-b9b7-4bd2-91ad-60717026c6c5",
+			"name": "Get player 2",
+			"url": "localhost:8080/players/a1a44159-f68e-4712-a148-514e4ba58542",
+			"time": 48,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				48
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "378c9399-8df8-4c2d-af7a-65ff13d808b6",
+			"name": "Create player 3",
+			"url": "localhost:8080/players/create",
+			"time": 31,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				31
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ba5dc201-d7b0-4df2-9947-339c80ec4444",
+			"name": "Get player 3",
+			"url": "localhost:8080/players/5a55ca4d-5104-450a-bb45-ea52607eb4ec",
+			"time": 23,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				23
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "07dd9573-db90-47bc-b188-8e2d892aec6f",
+			"name": "Create player 4",
+			"url": "localhost:8080/players/create",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				92
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "56db81cb-4b51-49e5-83dd-edcbe4f342f8",
+			"name": "Get player 4",
+			"url": "localhost:8080/players/3e3aba57-72c1-412c-afd9-75d574b5cf58",
+			"time": 61,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				61
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f543dc88-7aa1-4b4f-8822-2bd8b656b04b",
+			"name": "Create player 5",
+			"url": "localhost:8080/players/create",
+			"time": 100,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				100
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "1a7a0a7c-c671-4feb-a3be-86beeb3f3ecb",
+			"name": "Get player 5",
+			"url": "localhost:8080/players/ceb731ab-1bf8-4a82-b476-1dc513f3beab",
+			"time": 105,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				105
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "63271de8-9cb6-4d4c-86b3-c657fec0c30a",
+			"name": "Create player 6",
+			"url": "localhost:8080/players/create",
+			"time": 76,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				76
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3fba1e5f-67fb-4f67-999e-da849dccfb8b",
+			"name": "Get player 6",
+			"url": "localhost:8080/players/ae1a3219-ea9e-4dca-989e-14a9398b333b",
+			"time": 12,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				12
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3e15191a-c5c3-48fd-bede-8077ee145d5c",
+			"name": "Create player 7",
+			"url": "localhost:8080/players/create",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "8396308c-2a36-462a-96e7-5f80e5f856af",
+			"name": "Get player 7",
+			"url": "localhost:8080/players/c7b2fa4d-536d-49c4-9b23-6cb052aee8d7",
+			"time": 104,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				104
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "29000aaa-3828-4eb0-9148-243d7d43a347",
+			"name": "Create player 8",
+			"url": "localhost:8080/players/create",
+			"time": 67,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				67
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ad5f74ea-85c1-4b18-adba-7de3cb028520",
+			"name": "Get player 8",
+			"url": "localhost:8080/players/1e923d8d-4966-4843-b3f0-f3b36fbb54d9",
+			"time": 43,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				43
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ee81ab57-eb7c-47a3-8d16-76320b0fadb1",
+			"name": "Create player 9",
+			"url": "localhost:8080/players/create",
+			"time": 137,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				137
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "7a5bfb70-8914-481a-abaa-c3f1aa1b1306",
+			"name": "Get player 9",
+			"url": "localhost:8080/players/3d050fe9-e77e-4731-bcba-5eae082a3ad5",
+			"time": 56,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				56
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "5fdc0925-cf2e-47eb-b6cb-4d1fb1da7c1e",
+			"name": "Create player 10",
+			"url": "localhost:8080/players/create",
+			"time": 203,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				203
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f777df15-8733-4119-b41d-85fae6c761cd",
+			"name": "Get player 10",
+			"url": "localhost:8080/players/89f33776-3f4c-4077-81ff-4c1251a37072",
+			"time": 29,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				29
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "31300213-388a-4c09-90b9-b02a148e7a9b",
+			"name": "FindAll",
+			"url": "localhost:8080/players",
+			"time": 56,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"Status code is 200": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				56
+			],
+			"allTests": [
+				{
+					"Status code is 200": false
+				}
+			]
+		},
+		{
+			"id": "1c79fda2-d7bd-426a-9185-2587f439b931",
+			"name": "Create Team1",
+			"url": "localhost:8080/teams",
+			"time": 388,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				388
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "c69b9e53-8f6c-4c92-9174-be3e51fa05a9",
+			"name": "Get Team1",
+			"url": "localhost:8080/teams/b001cee6-c917-47f9-b974-cbbf417ac2c9",
+			"time": 223,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				223
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "4a420e04-b29e-4199-8fd3-34af44000e95",
+			"name": "Create Team2",
+			"url": "localhost:8080/teams",
+			"time": 106,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				106
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "6d3bd57e-9042-427a-9495-5bfb545dfe7c",
+			"name": "Get Team2",
+			"url": "localhost:8080/teams/5a940dde-ed9e-4244-94b5-6819b7d6d890",
+			"time": 10,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				10
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "af5f4092-05cd-4e68-83dc-df2eca963e1a",
+			"name": "Record Match team1 win",
+			"url": "localhost:8080/matches",
+			"time": 321,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				321
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "e3b0362c-77fb-4f7c-8e95-37f6a5803c6e",
+			"name": "Get player 1",
+			"url": "localhost:8080/players/35507fee-d239-4043-8b38-28018b2a0b21",
+			"time": 77,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Check result counts": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check result counts": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				77
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Check result counts": true
+				}
+			]
+		},
+		{
+			"id": "bb884345-d847-4b83-99ce-40e8027ae909",
+			"name": "Get player 6",
+			"url": "localhost:8080/players/ae1a3219-ea9e-4dca-989e-14a9398b333b",
+			"time": 30,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Check result counts": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Check result counts": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				30
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Check result counts": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 8559,
+	"collection": {
+		"requests": [
+			{
+				"id": "b1a15f69-2c93-4a15-a135-ceff7db35556",
+				"method": "POST"
+			},
+			{
+				"id": "cbbf4e63-6d04-4ecb-ad55-61aaca88cd14",
+				"method": "GET"
+			},
+			{
+				"id": "d4e85750-15d8-4377-82fe-a566d85cc646",
+				"method": "POST"
+			},
+			{
+				"id": "4e35fb56-b9b7-4bd2-91ad-60717026c6c5",
+				"method": "GET"
+			},
+			{
+				"id": "378c9399-8df8-4c2d-af7a-65ff13d808b6",
+				"method": "POST"
+			},
+			{
+				"id": "ba5dc201-d7b0-4df2-9947-339c80ec4444",
+				"method": "GET"
+			},
+			{
+				"id": "07dd9573-db90-47bc-b188-8e2d892aec6f",
+				"method": "POST"
+			},
+			{
+				"id": "56db81cb-4b51-49e5-83dd-edcbe4f342f8",
+				"method": "GET"
+			},
+			{
+				"id": "f543dc88-7aa1-4b4f-8822-2bd8b656b04b",
+				"method": "POST"
+			},
+			{
+				"id": "1a7a0a7c-c671-4feb-a3be-86beeb3f3ecb",
+				"method": "GET"
+			},
+			{
+				"id": "63271de8-9cb6-4d4c-86b3-c657fec0c30a",
+				"method": "POST"
+			},
+			{
+				"id": "3fba1e5f-67fb-4f67-999e-da849dccfb8b",
+				"method": "GET"
+			},
+			{
+				"id": "3e15191a-c5c3-48fd-bede-8077ee145d5c",
+				"method": "POST"
+			},
+			{
+				"id": "8396308c-2a36-462a-96e7-5f80e5f856af",
+				"method": "GET"
+			},
+			{
+				"id": "29000aaa-3828-4eb0-9148-243d7d43a347",
+				"method": "POST"
+			},
+			{
+				"id": "ad5f74ea-85c1-4b18-adba-7de3cb028520",
+				"method": "GET"
+			},
+			{
+				"id": "ee81ab57-eb7c-47a3-8d16-76320b0fadb1",
+				"method": "POST"
+			},
+			{
+				"id": "7a5bfb70-8914-481a-abaa-c3f1aa1b1306",
+				"method": "GET"
+			},
+			{
+				"id": "5fdc0925-cf2e-47eb-b6cb-4d1fb1da7c1e",
+				"method": "POST"
+			},
+			{
+				"id": "f777df15-8733-4119-b41d-85fae6c761cd",
+				"method": "GET"
+			},
+			{
+				"id": "31300213-388a-4c09-90b9-b02a148e7a9b",
+				"method": "GET"
+			},
+			{
+				"id": "1c79fda2-d7bd-426a-9185-2587f439b931",
+				"method": "POST"
+			},
+			{
+				"id": "c69b9e53-8f6c-4c92-9174-be3e51fa05a9",
+				"method": "GET"
+			},
+			{
+				"id": "4a420e04-b29e-4199-8fd3-34af44000e95",
+				"method": "POST"
+			},
+			{
+				"id": "6d3bd57e-9042-427a-9495-5bfb545dfe7c",
+				"method": "GET"
+			},
+			{
+				"id": "af5f4092-05cd-4e68-83dc-df2eca963e1a",
+				"method": "POST"
+			},
+			{
+				"id": "e3b0362c-77fb-4f7c-8e95-37f6a5803c6e",
+				"method": "GET"
+			},
+			{
+				"id": "bb884345-d847-4b83-99ce-40e8027ae909",
+				"method": "GET"
+			}
+		]
+	}
+}
